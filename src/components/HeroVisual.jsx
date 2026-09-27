@@ -18,7 +18,7 @@ export const HeroVisual = () => {
               <Droplet className="w-5 h-5" />
             </div>
             <div>
-              <h3 className="font-extrabold text-slate-900 text-base">V R Water Purifier</h3>
+              <h3 className="font-extrabold text-slate-900 text-base">S V Water Purifier</h3>
               <p className="text-xs font-medium text-slate-500">Service & Repair • Bengaluru</p>
             </div>
           </div>

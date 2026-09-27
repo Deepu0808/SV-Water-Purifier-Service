@@ -18,7 +18,7 @@ export const Footer = () => {
                 <Droplets className="w-5 h-5" />
               </div>
               <span className="font-extrabold text-lg text-white tracking-tight">
-                V R WATER PURIFIER
+                S V WATER PURIFIER
               </span>
             </div>
             <p className="text-xs text-slate-400 leading-relaxed max-w-sm">
@@ -76,7 +76,7 @@ export const Footer = () => {
 
         {/* Bottom Bar */}
         <div className="pt-6 flex flex-col sm:flex-row items-center justify-between text-[11px] text-slate-500 gap-2">
-          <p>© {currentYear} V R Water Purifier Service. All rights reserved.</p>
+          <p>© {currentYear} S V Water Purifier Service. All rights reserved.</p>
           <p className="text-center sm:text-right">
             Vijaya Bank Layout, Bommanahalli, Bengaluru
           </p>

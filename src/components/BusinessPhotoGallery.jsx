@@ -21,15 +21,6 @@ export const BusinessPhotoGallery = () => {
   const galleryItems = [
     {
       id: 1,
-      title: 'V R Water Purifier Storefront & Service Shop',
-      category: 'Location',
-      location: '36, Devarachikkannahalli Road, Vijaya Bank Layout, Bengaluru',
-      desc: 'Our official service station and spare parts counter located at Devarachikkannahalli Road, Bommanahalli.',
-      img: 'images/V R.png',
-      alt: 'V R Water Purifier Service Center Storefront'
-    },
-    {
-      id: 2,
       title: 'RO System Servicing & Deep Cleaning',
       category: 'Servicing',
       location: 'Devarachikkannahalli Road, Vijaya Bank Layout, Bengaluru',
@@ -38,7 +29,7 @@ export const BusinessPhotoGallery = () => {
       alt: 'RO Purifier Servicing Work'
     },
     {
-      id: 3,
+      id: 2,
       title: 'Water Filter & Membrane Cartridge Replacement',
       category: 'Filters',
       location: 'Vijaya Bank Layout, Bommanahalli, Bengaluru',
@@ -47,7 +38,7 @@ export const BusinessPhotoGallery = () => {
       alt: 'Filter and Membrane Replacement Work'
     },
     {
-      id: 4,
+      id: 3,
       title: 'Booster Pump & Electrical Repair Work',
       category: 'Servicing',
       location: 'Devarachikkannahalli Road, Bommanahalli, Bengaluru',
@@ -56,7 +47,7 @@ export const BusinessPhotoGallery = () => {
       alt: 'Booster Pump Repair Work'
     },
     {
-      id: 5,
+      id: 4,
       title: 'New Wall-Mount RO Purifier Installation',
       category: 'Installation',
       location: 'Vijaya Bank Layout, Bommanahalli, Bengaluru',
@@ -65,7 +56,7 @@ export const BusinessPhotoGallery = () => {
       alt: 'Purifier Installation Work'
     },
     {
-      id: 6,
+      id: 5,
       title: 'TDS Water Quality Test & Final Inspection',
       category: 'Inspection',
       location: 'Devarachikkannahalli Road, Vijaya Bank Layout, Bengaluru',
@@ -75,7 +66,7 @@ export const BusinessPhotoGallery = () => {
     }
   ];
 
-  const categories = ['All', 'Servicing', 'Installation', 'Filters', 'Inspection', 'Location'];
+  const categories = ['All', 'Servicing', 'Installation', 'Filters', 'Inspection'];
 
   const filteredItems = selectedCategory === 'All'
     ? galleryItems
@@ -87,10 +78,10 @@ export const BusinessPhotoGallery = () => {
       <div className="flex flex-col md:flex-row md:items-end justify-between mb-8 pb-6 border-b border-slate-100 gap-4">
         <div>
           <h2 className="text-2xl sm:text-3xl font-extrabold text-slate-900 tracking-tight">
-            Our Service Shop & Recent Field Work
+            Our Recent Field Work
           </h2>
           <p className="text-slate-600 text-sm mt-1">
-            Real photos from our service shop and technician work across Bengaluru.
+            Real photos of our technician service and repair work across Bengaluru.
           </p>
         </div>
 

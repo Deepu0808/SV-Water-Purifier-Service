@@ -8,8 +8,8 @@ export const ContactPage = () => {
   return (
     <>
       <SEO 
-        title="Contact V R Water Purifier Service | Bengaluru"
-        description="Contact V R Water Purifier Service in Vijaya Bank Layout, Bommanahalli, Bengaluru. Call 78990 37911 or WhatsApp us for RO, UV & UF purifier repair and filter service."
+        title="Contact S V Water Purifier Service | Bengaluru"
+        description="Contact S V Water Purifier Service in Vijaya Bank Layout, Bommanahalli, Bengaluru. Call 78990 37911 or WhatsApp us for RO, UV & UF purifier repair and filter service."
         path="/contact"
       />
 
@@ -17,7 +17,7 @@ export const ContactPage = () => {
       <section className="bg-slate-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
-            Contact V R Water Purifier Service
+            Contact S V Water Purifier Service
           </h1>
           <p className="text-slate-300 text-base max-w-2xl mx-auto">
             Call or WhatsApp us for prompt water purifier repair, servicing, filter change, or installation in Bengaluru.

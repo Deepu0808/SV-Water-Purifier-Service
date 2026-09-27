@@ -9,7 +9,7 @@ export const ServicesPage = () => {
   return (
     <>
       <SEO 
-        title="Water Purifier Repair & Service in Bengaluru | V R Water Purifier Service"
+        title="Water Purifier Repair & Service in Bengaluru | S V Water Purifier Service"
         description="Comprehensive RO, UV and UF water purifier repair, servicing, installation, filter replacement, RO membrane replacement, cleaning and AMC maintenance in Bengaluru."
         path="/services"
       />
@@ -48,7 +48,7 @@ export const ServicesPage = () => {
               RO, UV and UF Water Purification Support
             </h2>
             <p className="text-slate-700 text-sm leading-relaxed">
-              At <strong>V R Water Purifier Service</strong>, we assist residential households, apartments, and commercial offices with routine purifier maintenance and unexpected system faults. Whether your water purifier has low water flow, unusual taste, leakage issues, or requires fresh pre-filters, our goal is to deliver straightforward, reliable doorstep service.
+              At <strong>S V Water Purifier Service</strong>, we assist residential households, apartments, and commercial offices with routine purifier maintenance and unexpected system faults. Whether your water purifier has low water flow, unusual taste, leakage issues, or requires fresh pre-filters, our goal is to deliver straightforward, reliable doorstep service.
             </p>
 
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-4 pt-2">

@@ -28,7 +28,7 @@ const iconMap = {
 
 export const ServiceCard = ({ service }) => {
   const IconComponent = iconMap[service.icon] || Wrench;
-  const whatsappMessage = `Hello V R Water Purifier Service, I need information / booking for ${service.title}.`;
+  const whatsappMessage = `Hello S V Water Purifier Service, I need information / booking for ${service.title}.`;
   const whatsappUrl = getWhatsAppLink(whatsappMessage);
 
   return (

@@ -1,6 +1,6 @@
 export const businessInfo = {
-  name: "V R WATER PURIFIER SERVICE",
-  shortName: "VR Water Purifier Service",
+  name: "S V WATER PURIFIER SERVICE",
+  shortName: "SV Water Purifier Service",
   phone: "78990 37911",
   rawPhone: "+917899037911",
   telUrl: "tel:+917899037911",

@@ -19,7 +19,7 @@ export const ContactForm = () => {
 
   const handleSubmit = (e) => {
     e.preventDefault();
-    const formattedMessage = `Hello V R Water Purifier Service,
+    const formattedMessage = `Hello S V Water Purifier Service,
 I need water purifier service.
 Name: ${formData.name}
 Phone: ${formData.phone}
@@ -120,7 +120,7 @@ Message: ${formData.message || 'N/A'}`;
 
         <p className="text-[11px] text-slate-400 text-center flex items-center justify-center gap-1">
           <CheckCircle2 className="w-3.5 h-3.5 text-emerald-500" />
-          Direct chat connect with V R Water Purifier Service
+          Direct chat connect with S V Water Purifier Service
         </p>
       </form>
     </div>

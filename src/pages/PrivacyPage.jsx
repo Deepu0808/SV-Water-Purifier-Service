@@ -7,8 +7,8 @@ export const PrivacyPage = () => {
   return (
     <>
       <SEO 
-        title="Privacy Policy | V R Water Purifier Service Bengaluru"
-        description="Privacy policy for V R Water Purifier Service in Bengaluru. How customer contact details and service inquiries are safely handled."
+        title="Privacy Policy | S V Water Purifier Service Bengaluru"
+        description="Privacy policy for S V Water Purifier Service in Bengaluru. How customer contact details and service inquiries are safely handled."
         path="/privacy"
       />
 
@@ -21,7 +21,7 @@ export const PrivacyPage = () => {
             Privacy Policy
           </h1>
           <p className="text-slate-300 text-sm max-w-xl mx-auto">
-            V R Water Purifier Service • Bommanahalli, Bengaluru
+            S V Water Purifier Service • Bommanahalli, Bengaluru
           </p>
         </div>
       </section>

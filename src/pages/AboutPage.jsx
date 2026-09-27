@@ -7,8 +7,8 @@ export const AboutPage = () => {
   return (
     <>
       <SEO 
-        title="About V R Water Purifier Service | Bengaluru"
-        description="Learn about V R Water Purifier Service in Vijaya Bank Layout, Bommanahalli, Bengaluru. We provide factual, reliable RO, UV and UF water purifier repair and servicing."
+        title="About S V Water Purifier Service | Bengaluru"
+        description="Learn about S V Water Purifier Service in Vijaya Bank Layout, Bommanahalli, Bengaluru. We provide factual, reliable RO, UV and UF water purifier repair and servicing."
         path="/about"
       />
 
@@ -16,7 +16,7 @@ export const AboutPage = () => {
       <section className="bg-slate-900 text-white py-12">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight mb-3">
-            About V R Water Purifier Service
+            About S V Water Purifier Service
           </h1>
           <p className="text-slate-300 text-base max-w-2xl mx-auto">
             Water purifier repair, servicing, installation and maintenance support in Bengaluru.
@@ -30,11 +30,11 @@ export const AboutPage = () => {
           
           <div className="bg-slate-50 p-8 sm:p-10 rounded-3xl border border-slate-200/80 shadow-sm space-y-6">
             <h2 className="text-2xl sm:text-3xl font-bold text-slate-900 border-b border-slate-200 pb-4">
-              V R Water Purifier Service Overview
+              S V Water Purifier Service Overview
             </h2>
 
             <p className="text-slate-700 text-base sm:text-lg leading-relaxed">
-              V R Water Purifier Service provides water purifier repair, servicing, installation and maintenance support in Bengaluru. We help customers with RO, UV and UF purifier service requirements, including filter replacement, membrane replacement, cleaning and regular maintenance.
+              S V Water Purifier Service provides water purifier repair, servicing, installation and maintenance support in Bengaluru. We help customers with RO, UV and UF purifier service requirements, including filter replacement, membrane replacement, cleaning and regular maintenance.
             </p>
 
             <div className="space-y-4 pt-4">

@@ -29,7 +29,7 @@ export const Header = () => {
             </div>
             <div>
               <span className="block font-black text-xl tracking-tight text-slate-900 group-hover:text-brand-700 transition-colors">
-                V R WATER PURIFIER
+                S V WATER PURIFIER
               </span>
               <span className="block text-xs font-semibold uppercase tracking-widest text-brand-600">
                 Service • Bengaluru

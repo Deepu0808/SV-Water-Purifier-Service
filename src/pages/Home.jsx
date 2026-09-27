@@ -33,8 +33,8 @@ export const Home = () => {
   return (
     <>
       <SEO 
-        title="V R Water Purifier Service | RO Repair & Service in Bengaluru"
-        description="V R Water Purifier Service provides RO, UV and UF water purifier repair, service, installation, filter replacement and maintenance in Bengaluru. Call 78990 37911."
+        title="S V Water Purifier Service | RO Repair & Service in Bengaluru"
+        description="S V Water Purifier Service provides RO, UV and UF water purifier repair, service, installation, filter replacement and maintenance in Bengaluru. Call 78990 37911."
         path="/"
       />
 
@@ -149,7 +149,7 @@ export const Home = () => {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
           <div className="text-center max-w-3xl mx-auto mb-12">
             <h2 className="text-3xl sm:text-4xl font-extrabold text-white tracking-tight mb-3">
-              Why Choose V R Water Purifier Service?
+              Why Choose S V Water Purifier Service?
             </h2>
             <p className="text-slate-300 text-sm sm:text-base">
               Prompt response, reliable filter replacements, and doorstep service convenience for local residents and businesses.
@@ -225,7 +225,7 @@ export const Home = () => {
                 Water Purifier Service in Bengaluru
               </h2>
               <p className="text-slate-600 text-base leading-relaxed">
-                V R Water Purifier Service provides water purifier repair, servicing, installation and maintenance support in Bengaluru and nearby service areas, subject to availability.
+                S V Water Purifier Service provides water purifier repair, servicing, installation and maintenance support in Bengaluru and nearby service areas, subject to availability.
               </p>
               
               <div className="pt-2">
